@@ -6,7 +6,9 @@ The Communications HUB & Reactive Instrument for Simply Sending Information, a b
 The grid for receiving letters is arranged as follows:
 
 ABC.JKL.STU
+
 DEF.MNO.VWX
+
 GHI.PQR.YZspace
 
 So, for instance, blinking out 3-3-3 means "space", 1-1-1 means "A", 2-1-3 means "L", 1-3-1 means "G", 1-2-3 means "F", 3-2-1 means "V" and so on and so forth.
